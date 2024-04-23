@@ -6,10 +6,15 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on:
   - A bar-crawling app to gameify going downtown
-  - A chapter management app for Greek orgs
-- 🌱 I’m currently learning ...
-  - C
-  - Rust
+  - A functional financial management tool for organizations
+- 🌱 I’m currently learning:
   - React Native
+  - Rust
+  - C
+- 🎨 Outside of software I enjoy:
+  - Music
+  - Physics
+  - Finance
+  - Design
