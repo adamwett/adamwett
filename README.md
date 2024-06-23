@@ -1,20 +1,20 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**adamwett/adamwett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💼 I work for:
+  - Myself: as a private tutor
 
-Here are some ideas to get you started:
--->
-
-- 🔭 I’m currently working on:
-  - A bar-crawling app to gameify going downtown
-  - A functional financial management tool for organizations
-- 🌱 I’m currently learning:
+### 🖥️ I’m building:
+  - Personal: a simple poll based social media CRUD app
+  - School: *out for summer* 🏖️
+  - Startup: A bar-crawling app to gameify going downtown
+  
+### 🌱 I’m learning:
   - React Native
   - Rust
-  - C
-- 🎨 Outside of software I enjoy:
-  - Music
-  - Physics
-  - Finance
-  - Design
+  - C and Operating Systems
+
+### 🎨 Offline I enjoy:
+  - Beekeeping 
+  - Music theory
+  - Any field of physics
+  - Economics & finance
