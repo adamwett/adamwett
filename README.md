@@ -6,7 +6,7 @@
 ### 🖥️ I’m building:
   - Personal: a simple poll based social media CRUD app
   - School: *out for summer* 🏖️
-  - Startup: A bar-crawling app to gameify going downtown
+  - Startup: ...
   
 ### 🌱 I’m learning:
   - React Native
